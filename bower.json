@@ -1,0 +1,19 @@
+{
+  "name": "umpire",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexstuckey/umpire",
+  "authors": [
+    "Alex Stuckey <alex@stuckey.org.uk>"
+  ],
+  "description": "Backend management system for Artifex event",
+  "main": "index.php",
+  "license": "GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
