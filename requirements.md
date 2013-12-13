@@ -1,8 +1,10 @@
 # Requirements
 
 * Provice access to data through
-* a) HTML interface
-* b) JSON-REST API
+  1. HTML interface
+  2. JSON-REST API
+* Allow photos to be view, then approved/disapproved
+* Send broadcast to all registered users
 
 ## Events
 * List
@@ -20,4 +22,13 @@
 
 ## Users
 * Register
-* List
+
+### Properties
+
+| Name        | Type    |
+| ------------|---------|
+| name        | text    |
+| email       | emai    |
+| device      | text    |
+| app_version | text    |
+| ios_version | text    |
