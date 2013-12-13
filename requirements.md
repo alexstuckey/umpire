@@ -18,6 +18,17 @@
 * Star
 * Get
 
+#### Properties
+| Name         | Type    |
+| -------------|---------|
+| id           | int     |
+| name         | text    |
+| description  | text    |
+| location     | text    |
+| date_start   | date    |
+| date_end     | date    |
+| type         | text    |
+
 ### Photos
 #### Methods
 * List
