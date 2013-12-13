@@ -4,26 +4,36 @@
   1. HTML interface
   2. JSON-REST API
 * Allow photos to be view, then approved/disapproved
-* Send broadcast to all registered users
+* Send broadcast to all registered users (via push notification)
+* Display Twitter feed (perhaps through an aggregate feed via the server)
 
-## Events
+## Objects
+
+### Events
+#### Methods
 * List
 * Create
 * Delete
 * Change
 * Star
+* Get
 
-## Photos
+### Photos
+#### Methods
 * List
 * Upload
 * Approve
 * Disapprove
 * Delete
+* Get
 
-## Users
+### Users
+#### Methods
 * Register
+* List
+* Get
 
-### Properties
+#### Properties
 
 | Name        | Type    |
 | ------------|---------|
