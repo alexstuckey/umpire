@@ -28,7 +28,10 @@
 | Name        | Type    |
 | ------------|---------|
 | name        | text    |
-| email       | emai    |
+| email       | email   |
 | device      | text    |
 | app_version | text    |
 | ios_version | text    |
+| admin       | BOOL    |
+| house       | text    |
+| year        | text    |
