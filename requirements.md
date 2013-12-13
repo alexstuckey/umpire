@@ -27,6 +27,15 @@
 * Delete
 * Get
 
+#### Properties
+| Name         | Type    |
+| -------------|---------|
+| id           | int     |
+| url          | text    |
+| uploader     | int     |
+| date_uploaded| date    |
+| status       | text    |
+
 ### Users
 #### Methods
 * Register
