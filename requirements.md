@@ -65,3 +65,4 @@
 | admin       | BOOL    |
 | house       | text    |
 | year        | text    |
+| registered  | date    |
