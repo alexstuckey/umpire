@@ -41,15 +41,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">SB Admin</a>
+          <a class="navbar-brand" href="index.html">Umpire</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav side-nav">
             <li><a href="index.html"><i class="fa fa-dashboard"></i> Dashboard</a></li>
-            <li><a href="charts.html"><i class="fa fa-bar-chart-o"></i> Events</a></li>
-            <li class="active"><a href="blank-page.html"><i class="fa fa-file"></i> Photos</a></li>
+            <li><a href="charts.html"><i class="fa fa-calendar"></i> Events</a></li>
+            <li class="active"><a href="blank-page.html"><i class="fa fa-camera"></i> Photos</a></li>
+            <li><a href="charts.html"><i class="fa fa-users"></i> Users</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-caret-square-o-down"></i> Dropdown <b class="caret"></b></a>
               <ul class="dropdown-menu">
