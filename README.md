@@ -12,6 +12,11 @@ The plan for umpire is for it to manage the content being distributed to the cli
 
 It will also provide a JSON/REST API for the iOS client to connect to.
 
+INSTALLATION
+------------
+
+Run `bower install` to pull down jQuery, Bootstrap and the other project requirements. If you do not have bower installed try here, [Bower](http://bower.io/).
+
 Copyright
 ---------
 
